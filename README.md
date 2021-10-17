@@ -16,4 +16,4 @@ Vemos el código exitoso de 201 es decir creado correctamente. Si modificamos el
 
 Para el listado ahora utilizamos la misma url pero en este caso es un método de tipo GET
 
-Para buscar un tipo de cambio utilizamos un GET pero con id a buscar http://localhost:8080/personas/1
+Para buscar una persona utilizamos un GET pero con id a buscar http://localhost:8080/personas/1
